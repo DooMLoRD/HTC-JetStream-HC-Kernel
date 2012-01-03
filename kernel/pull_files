@@ -1,0 +1,3 @@
+cp drivers/net/wireless/bcm4329_248/bcm4329.ko ../out/.
+cp arch/arm/boot/zImage ../out/.
+
